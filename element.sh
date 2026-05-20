@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 PSQL="psql --username=freecodecamp --dbname=periodic_table --tuples-only --no-align -c"
 
